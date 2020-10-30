@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>Dise&ntilde;o de sitios Web</title>
+</head>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 50px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#3C3F3A;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#025F4F;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 60px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#229954;}
+#content{margin:0 0 0 00%;position:relative;}
+.content-container{background:#FFF;width:40%;margin-top:8px;padding:30px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Autor</h1></div>
+
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>Vladimir Alvarez Cardozo</h2>
+  <div>
+  
+  </div>
+  <h2>Programa: Ingenieria de Sistemas
+    <div>DISE&Ntilde;OS DE SITIOS WEB</h2>
+        <h3>Grupo: 301122_26</h3>    
+   <h3>Contacto: 3134816776</h3>
+   <h3>Skype: Vlac2</h3>
+ </fieldset></div> 
+
+ 
+</div>
+</body>
+</html>
